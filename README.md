@@ -125,3 +125,10 @@ Go to the overview of the virtual machine you just made.  Please look for the pu
 <img src="https://i.imgur.com/OgojjUU.png" alt="AddPc"/>
 </p>
 <br />
+
+19\. Under PC Name, paste the Public IP Address of our Virtual Machine from step 17.  Under Friendly Name, give it a friendly name,  I name it 'The Different Computer'
+
+<p>
+<img src="https://i.imgur.com/DSa6CXz.png" alt="PCINFO"/>
+</p>
+<br />
