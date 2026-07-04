@@ -104,6 +104,17 @@ Throughout the entire lesson, we will use this VM as a **diff**erent **comp**ute
 <img src="https://i.imgur.com/D9EtMXZ.png" alt="WindowsApp"/>
 </p>
 <p>
+It is the first listing.
 ** NOTE: These instructions are only for MAC.  If you are operating on Windows, use Microsoft Remote Desktop.
+</p>
+<br />
+
+17\. Once we have that installed, go back to Microsoft Azure.
+
+<p>
+<img src="https://i.imgur.com/N8z9l6Y.png" alt="WindowsApp"/>
+</p>
+<p>
+Go to the overview of the virtual machine you just made.  Please look for the public IP address.  Once you have it, copy it.
 </p>
 <br />
