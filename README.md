@@ -119,7 +119,7 @@ Go to the overview of the virtual machine you just made.  Please look for the pu
 </p>
 <br />
 
-1\. Go back to the Windows App, and hit the '+' in the top-right corner.  Then hit Add PC
+18\. Go back to the Windows App, and hit the '+' in the top-right corner.  Then hit Add PC
 
 <p>
 <img src="https://i.imgur.com/OgojjUU.png" alt="AddPc"/>
