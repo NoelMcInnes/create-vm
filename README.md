@@ -14,9 +14,8 @@ Learn how to provision a new Windows 11 virtual machine within the Azure portal.
 
 -Microsoft Windows 11
 
-(https://scribehow.com/o/3v683_BfRmGDvX240ciALg/viewer/Creating_a_New_Virtual_Machine_in_Azure__v1F0nCDGS3Gy1Qa_0G2O3A)
 
-#### Portal Navigation
+#### Start Creating Your Virtual Machines!
 
 
 1\. Navigate to "Virtual machines" in the Azure portal sidebar.
