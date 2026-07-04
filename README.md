@@ -101,7 +101,7 @@ Throughout the entire lesson, we will use this VM as a **diff**erent **comp**ute
 16\. In the app store, search for 'Windows App'.
 
 <p>
-<img src="(https://i.imgur.com/D9EtMXZ.png)" height="80%" width="80%" alt="Windows App pic"/>
+![Screenshot](https://i.imgur.com/D9EtMXZ.png) height="80%" width="80%" alt="Windows App pic"/>
 </p>
 <p>
 ** NOTE: These instructions are only for MAC.  If you are operating on Windows, use Microsoft Remote Desktop.
