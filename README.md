@@ -132,3 +132,9 @@ Go to the overview of the virtual machine you just made.  Please look for the pu
 <img src="https://i.imgur.com/DSa6CXz.png" alt="PCINFO"/>
 </p>
 <br />
+
+19\. Enter the username and password that you assigned when you were creating the VM.  Don't remember it? Don't worry, I have it right here.  However, it is a good idea to always useful to save credential info in a secure spot.  Start the habit now!
+<p>
+<img src="https://i.imgur.com/yHCfAxn.png" alt="UP"/>
+</p>
+<br />
