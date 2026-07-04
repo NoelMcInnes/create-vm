@@ -1,4 +1,4 @@
-# Creating a New Virtual Machine in Azure
+# Creating a New Virtual Machine in Azure and Accessing it Through Remote Desktop
 
 Learn how to provision a new Windows 11 virtual machine within the Azure portal. This guide walks you through the necessary configuration steps, from selecting your machine group and region to choosing the appropriate hardware size.
 
