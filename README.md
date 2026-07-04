@@ -112,7 +112,7 @@ It is the first listing.
 17\. Once we have that installed, go back to Microsoft Azure.
 
 <p>
-<img src="https://i.imgur.com/a/B6YQH8n.png" alt="AzureIP"/>
+<img src="https://i.imgur.com/a/B6YQH8n.jpeg" alt="AzureIP"/>
 </p>
 <p>
 Go to the overview of the virtual machine you just made.  Please look for the public IP address.  Once you have it, copy it.
