@@ -101,9 +101,9 @@ Throughout the entire lesson, we will use this VM as a **diff**erent **comp**ute
 16\. In the app store, search for 'Windows App'.
 
 <p>
-<img src="(https://imgur.com/a/9XuTnkV)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://imgur.com/a/9XuTnkV)" height="80%" width="80%" alt="Windows App pic"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+** NOTE: These instructions are only for MAC.  If you are operating on Windows, use Microsoft Remote Desktop.
 </p>
 <br />
