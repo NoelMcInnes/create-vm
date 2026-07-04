@@ -3,6 +3,11 @@
 Learn how to provision a new Windows 11 virtual machine within the Azure portal. This guide walks you through the necessary configuration steps, from selecting your machine group and region to choosing the appropriate hardware size.
 
 
+**Enivronments Used**
+- Microsoft Azure
+- Windows App (for Mac users)
+- Windows Remote Dekstop (for PC users)
+
 (https://scribehow.com/o/3v683_BfRmGDvX240ciALg/viewer/Creating_a_New_Virtual_Machine_in_Azure__v1F0nCDGS3Gy1Qa_0G2O3A)
 
 #### Portal Navigation
