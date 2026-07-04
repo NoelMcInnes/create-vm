@@ -9,6 +9,7 @@ Learn how to provision a new Windows 11 virtual machine within the Azure portal.
 - Windows Remote Dekstop (for PC users)
 
 **Services Used**
+
 -Microsoft Azure Virtual Machines
 
 (https://scribehow.com/o/3v683_BfRmGDvX240ciALg/viewer/Creating_a_New_Virtual_Machine_in_Azure__v1F0nCDGS3Gy1Qa_0G2O3A)
