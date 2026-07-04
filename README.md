@@ -118,3 +118,10 @@ It is the first listing.
 Go to the overview of the virtual machine you just made.  Please look for the public IP address.  Once you have it, copy it.
 </p>
 <br />
+
+1\. Go back to the Windows App, and hit the '+' in the top-right corner.  Then hit Add PC
+
+<p>
+<img src="https://i.imgur.com/OgojjUU.png" alt="AddPc"/>
+</p>
+<br />
