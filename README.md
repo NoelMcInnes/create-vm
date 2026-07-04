@@ -142,7 +142,7 @@ password - coursecareers1!
 </p>
 <br />
 
-20\. BOOM! You did it! You created a virtual machine, and you dove in head-first into it.  Feel free to explore and do what you want.  Just log off and ***REMEMBER TO STOP YOUR VM ON AZURE WHEN FINISHED, OR YOU WILL START TO RACK UP FEES***
+20\. BOOM! You did it! You created a virtual machine, and you dove in head-first into it.  Feel free to explore and do what you want.  Just log off when you are finished. ***REMEMBER TO STOP YOUR VM ON AZURE WHEN FINISHED, OR YOU WILL START TO RACK UP FEES***
 <p>
 <img src="https://i.imgur.com/vb7nsDH.png" alt="WIN"/>
 </p>
