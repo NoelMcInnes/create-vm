@@ -126,7 +126,7 @@ Go to the overview of the virtual machine you just made.  Please look for the pu
 </p>
 <br />
 
-19\. Under PC Name, paste the Public IP Address of our Virtual Machine from step 17.  Under Friendly Name, give it a friendly name,  I name it 'The Different Computer'
+19\. Under PC Name, paste the Public IP Address of our Virtual Machine from step 17.  Under Friendly Name, give it a friendly name,  I named it 'The Different Computer'
 
 <p>
 <img src="https://i.imgur.com/DSa6CXz.png" alt="PCINFO"/>
@@ -134,7 +134,22 @@ Go to the overview of the virtual machine you just made.  Please look for the pu
 <br />
 
 19\. Enter the username and password that you assigned when you were creating the VM.  Don't remember it? Don't worry, I have it right here.  However, it is a good idea to always useful to save credential info in a secure spot.  Start the habit now!
+
+username - labuser
+password - coursecareers1!
 <p>
 <img src="https://i.imgur.com/yHCfAxn.png" alt="UP"/>
 </p>
 <br />
+
+20\. BOOM! You did it! You created a virtual machine, and you dove in head-first into it.  Feel free to explore and do what you want.  Just log off and ***REMEMBER TO STOP YOUR VM ON AZURE WHEN FINISHED, OR YOU WILL START TO RACK UP FEES***
+<p>
+<img src="https://i.imgur.com/vb7nsDH.png" alt="WIN"/>
+</p>
+
+<p>
+Remote Desktop gives you a safe place to explore, learn, and build confidence without worrying about breaking your personal computer. By connecting to a virtual machine, you can gain hands-on experience with the same tools and environments used by IT professionals every day. It's an excellent way for beginners to develop real-world skills while having the freedom to experiment and learn from mistakes.  Have fun!
+</p>
+<br />
+
+
