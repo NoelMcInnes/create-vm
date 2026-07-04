@@ -104,7 +104,7 @@ Throughout the entire lesson, we will use this VM as a **diff**erent **comp**ute
 <img src="https://i.imgur.com/D9EtMXZ.png" alt="WindowsApp"/>
 </p>
 <p>
-It is the first listing.
+It is the first listing; the one on the top left.
 ** NOTE: These instructions are only for MAC.  If you are operating on Windows, use Microsoft Remote Desktop.
 </p>
 <br />
